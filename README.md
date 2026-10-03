@@ -37,12 +37,12 @@ This suite is my personal hobby workbench. It documents my explorations outside 
 <br/><img src="resources/banner-sw-ancient.svg" width="100%" alt="SW Ancient Banner">
 
 >**[Empire Java Library](https://github.com/gom9000/empire)**<br/>
->**Type**: Notes | **Status**: Completed (*Deprecated*)
+>**Type**: Library | **Status**: Completed (*Deprecated*)
 >
 >A collection of general-purpose Java utility classes for tag hierarchies, logging, configuration, and filesystem management for *old style* Web Applications. Its motto: *"Empire, state: building!"*.
 
 >**[MicroLib - x86 DOS C/BIOS Utility Libraries](https://github.com/gom9000/microlib-mul)**<br/>
->**Type**: Notes | **Status**: Completed (*Deprecated*)
+>**Type**: Library | **Status**: Completed (*Deprecated*)
 >
 >A set of C libraries for DOS environments. It includes the [MUL (Micro Utilities Library)](https://github.com/gom9000/microlib-mul), the [MGL (Micro Graphic Library)](https://github.com/gom9000/microlib-mgl) for PC BIOS-based graphics and the [Micro Mouse Library](https://github.com/gom9000/microlib-mouse) for low-level mouse handling.
 
